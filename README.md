@@ -1,4 +1,4 @@
-👉 [[https://github.com/sponsors/xenodium][Support my work via GitHub Sponsors]]
+👉 [Support my work via GitHub Sponsors](https://github.com/sponsors/xenodium)
 
 Hi, I’m Álvaro 👋
 - I do software engineering for a living.
