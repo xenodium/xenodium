@@ -7,6 +7,7 @@ Hi, I’m Álvaro 👋
 - I write about all sorts of things at [xenodium.com](https://xenodium.com).
 - I've written a few Emacs packages you may like:
   - [chatgpt-shell](https://github.com/xenodium/chatgpt-shell)
+  - [ready-player](https://github.com/xenodium/ready-player)
   - [sqlite-mode-extras](https://github.com/xenodium/sqlite-mode-extras)
   - [dwim-shell-command](https://github.com/xenodium/dwim-shell-command)
   - [org-block-capf](https://github.com/xenodium/org-block-capf)
