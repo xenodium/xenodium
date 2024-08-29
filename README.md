@@ -1,7 +1,6 @@
 👉 [Support my work via GitHub Sponsors](https://github.com/sponsors/xenodium)
 
 Hi, I’m Álvaro 👋
-- I do software for a living.
 - I live in an [Emacs](https://www.gnu.org/software/emacs) buffer somewhere in London.
   - My Emacs [config](https://github.com/xenodium/dotsies/tree/main/emacs) is available in the [dotsies](https://github.com/xenodium/dotsies) repo.
 - I write about all sorts of things at [xenodium.com](https://xenodium.com).
