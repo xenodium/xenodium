@@ -12,6 +12,10 @@ Hi, I’m Álvaro 👋
   - [org-block-capf](https://github.com/xenodium/org-block-capf)
   - [company-org-block](https://github.com/xenodium/company-org-block)
   - [ob-swiftui](https://github.com/xenodium/ob-swiftui)
+  - [ob-chatgpt-shell](https://github.com/xenodium/ob-chatgpt-shell)
+  - [dall-e-shell](https://github.com/xenodium/dall-e-shell)
+  - [ob-dall-e-shell](https://github.com/xenodium/ob-dall-e-shell)
+  - [shell-maker](https://github.com/xenodium/shell-maker)
 - Command line utils like [macosrec](https://github.com/xenodium/macosrec).
 - Take care of your eyes on macOS with [Fresh Eyes](https://apps.apple.com/us/app/fresh-eyes/id6480411697?mt=12).
 - Inspired by [Atomic Habits](https://jamesclear.com/atomic-habits), I wrote [Flat Habits](https://flathabits.com) for iOS. Now on the [App Store](https://apps.apple.com/app/id1558358855).
