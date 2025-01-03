@@ -5,7 +5,7 @@ Hi, I’m Álvaro 👋
   - My Emacs [config](https://github.com/xenodium/dotsies/tree/main/emacs) is available in the [dotsies](https://github.com/xenodium/dotsies) repo.
 - I write about all sorts of things at [lmno.lol/alvaro](https://lmno.lol/alvaro) and [xenodium.com](https://xenodium.com).
 - Built [lmno.lol](https://lmno.lol) - Start your blog here (no ads, tracking, paywalls, or bloat).
-- Built [emacs.tv](https://emacs.tv) - Check out the (source)[https://github.com/emacstv/emacstv.github.io].
+- Built [emacs.tv](https://emacs.tv) - Check out the [source](https://github.com/emacstv/emacstv.github.io).
 - I've written a few Emacs packages you may like:
   - [chatgpt-shell](https://github.com/xenodium/chatgpt-shell)
   - [ready-player](https://github.com/xenodium/ready-player)
