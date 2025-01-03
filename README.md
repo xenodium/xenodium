@@ -3,12 +3,15 @@
 Hi, I’m Álvaro 👋
 - I live in an [Emacs](https://www.gnu.org/software/emacs) buffer somewhere in London.
   - My Emacs [config](https://github.com/xenodium/dotsies/tree/main/emacs) is available in the [dotsies](https://github.com/xenodium/dotsies) repo.
-- I write about all sorts of things at [xenodium.com](https://xenodium.com).
+- I write about all sorts of things at [lmno.lol/alvaro](https://lmno.lol/alvaro) and [xenodium.com](https://xenodium.com).
+- Built (LMNO.lol)[https://lmno.lol] - Start your blog here (no ads, tracking, paywalls, or bloat).
+- Built (emacs.tv)[https://emacs.tv] - Check out the (source)[https://github.com/emacstv/emacstv.github.io].
 - I've written a few Emacs packages you may like:
   - [chatgpt-shell](https://github.com/xenodium/chatgpt-shell)
   - [ready-player](https://github.com/xenodium/ready-player)
   - [sqlite-mode-extras](https://github.com/xenodium/sqlite-mode-extras)
   - [dwim-shell-command](https://github.com/xenodium/dwim-shell-command)
+  - [symbol-overlay-mc](https://github.com/xenodium/symbol-overlay-mc)
   - [org-block-capf](https://github.com/xenodium/org-block-capf)
   - [company-org-block](https://github.com/xenodium/company-org-block)
   - [ob-swiftui](https://github.com/xenodium/ob-swiftui)
