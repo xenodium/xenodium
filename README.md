@@ -12,6 +12,7 @@ Hi, I’m Álvaro 👋
   - [sqlite-mode-extras](https://github.com/xenodium/sqlite-mode-extras)
   - [dwim-shell-command](https://github.com/xenodium/dwim-shell-command)
   - [video-trimmer](https://github.com/xenodium/video-trimmer)
+  - [diverted](https://github.com/xenodium/diverted)
   - [symbol-overlay-mc](https://github.com/xenodium/symbol-overlay-mc)
   - [org-block-capf](https://github.com/xenodium/org-block-capf)
   - [company-org-block](https://github.com/xenodium/company-org-block)
