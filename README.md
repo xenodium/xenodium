@@ -22,6 +22,7 @@ Hi, I’m Álvaro 👋
   - [ob-dall-e-shell](https://github.com/xenodium/ob-dall-e-shell)
   - [shell-maker](https://github.com/xenodium/shell-maker)
 - Command line utils like [macosrec](https://github.com/xenodium/macosrec).
+- An ever-present macOS clock: [EverTime](https://github.com/xenodium/EverTime)
 - Take care of your eyes on macOS with [Fresh Eyes](https://apps.apple.com/us/app/fresh-eyes/id6480411697?mt=12).
 - Notes/journaling iOS apps never stuck for me until I built my own [Journelly](https://journelly.com).
 - Inspired by [Atomic Habits](https://jamesclear.com/atomic-habits), I wrote [Flat Habits](https://flathabits.com) for iOS. Now on the [App Store](https://apps.apple.com/app/id1558358855).
