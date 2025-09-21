@@ -9,6 +9,7 @@ Hi, I’m Álvaro 👋
 - I've written a few Emacs packages you may like:
   - [chatgpt-shell](https://github.com/xenodium/chatgpt-shell)
   - [ready-player](https://github.com/xenodium/ready-player)
+  - [acp.el](https://github.com/xenodium/acp.el)
   - [sqlite-mode-extras](https://github.com/xenodium/sqlite-mode-extras)
   - [dwim-shell-command](https://github.com/xenodium/dwim-shell-command)
   - [video-trimmer](https://github.com/xenodium/video-trimmer)
