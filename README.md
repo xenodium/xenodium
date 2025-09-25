@@ -7,7 +7,8 @@ Hi, I’m Álvaro 👋
 - Built [lmno.lol](https://lmno.lol) - Start your blog here (no ads, tracking, paywalls, or bloat).
 - Built [emacs.tv](https://emacs.tv) - Check out the [source](https://github.com/emacstv/emacstv.github.io).
 - I've written a few Emacs packages you may like:
-  - [chatgpt-shell](https://github.com/xenodium/chatgpt-shell)
+  - [agent-shell](https://github.com/xenodium/agent-shell)
+  - [chatgpt-shell](https://github.com/xenodium/chatgpt-shell) (multi-model)
   - [ready-player](https://github.com/xenodium/ready-player)
   - [acp.el](https://github.com/xenodium/acp.el)
   - [sqlite-mode-extras](https://github.com/xenodium/sqlite-mode-extras)
