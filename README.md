@@ -14,6 +14,7 @@ Hi, I’m Álvaro 👋
   - [agent-shell](https://github.com/xenodium/agent-shell)
   - [chatgpt-shell](https://github.com/xenodium/chatgpt-shell) (multi-model)
   - [ready-player](https://github.com/xenodium/ready-player)
+  - [time-zones](https://github.com/xenodium/time-zones)
   - [acp.el](https://github.com/xenodium/acp.el)
   - [sqlite-mode-extras](https://github.com/xenodium/sqlite-mode-extras)
   - [dwim-shell-command](https://github.com/xenodium/dwim-shell-command)
