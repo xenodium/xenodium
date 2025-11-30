@@ -29,7 +29,7 @@ Hi, I’m Álvaro 👋
   - [dall-e-shell](https://github.com/xenodium/dall-e-shell)
   - [ob-dall-e-shell](https://github.com/xenodium/ob-dall-e-shell)
   - [shell-maker](https://github.com/xenodium/shell-maker)
-- Command line utils like [macosrec](https://github.com/xenodium/macosrec).
+- Command line utils like [macosrec](https://github.com/xenodium/macosrec) and [rinku](https://github.com/xenodium/rinku).
 - An ever-present macOS clock: [EverTime](https://github.com/xenodium/EverTime).
 - Take care of your eyes on macOS with [Fresh Eyes](https://apps.apple.com/us/app/fresh-eyes/id6480411697?mt=12).
 - Notes/journaling iOS apps never stuck for me until I built my own [Journelly](https://journelly.com).
