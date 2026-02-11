@@ -14,6 +14,7 @@ Hi, I’m Álvaro 👋
   - [agent-shell](https://github.com/xenodium/agent-shell)
   - [chatgpt-shell](https://github.com/xenodium/chatgpt-shell) (multi-model)
   - [ready-player](https://github.com/xenodium/ready-player)
+  - [winpulse](https://github.com/xenodium/winpulse)
   - [wasabi](https://github.com/xenodium/wasabi)
   - [time-zones](https://github.com/xenodium/time-zones)
   - [acp.el](https://github.com/xenodium/acp.el)
